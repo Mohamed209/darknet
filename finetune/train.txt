@@ -1,0 +1,8 @@
+/valohai/repository/finetune/images/-00001.jpg
+/valohai/repository/finetune/images/-00002.jpg
+/valohai/repository/finetune/images/-00003.jpg
+/valohai/repository/finetune/images/-00004.jpg
+/valohai/repository/finetune/images/-00005.jpg
+/valohai/repository/finetune/images/-00006.jpg
+/valohai/repository/finetune/images/-00007.jpg
+/valohai/repository/finetune/images/-00008.jpg

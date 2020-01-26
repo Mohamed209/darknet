@@ -3,20 +3,20 @@
 *.csv
 *.out
 *.png
-*.jpg
+#*.jpg
 *.pyc
 old/
 mnist/
 data/
 caffe/
 grasp/
-images/
+#images/
 opencv/
 convnet/
 decaf/
 submission/
-cfg/
-darknet
+#cfg/
+#darknet
 .fuse*
 
 # OS Generated #

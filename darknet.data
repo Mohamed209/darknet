@@ -1,0 +1,5 @@
+classes= 4
+train=/valohai/repository/finetune/train.txt
+valid=/valohai/repository/finetune/valid.txt
+names=/valohai/repository/finetune/classes.names
+
